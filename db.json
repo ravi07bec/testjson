@@ -14,21 +14,7 @@
     "carousel": "More Like This",
     "recommendations": "59267,31827238,17242070,234184,41129924,7906699,40750305,50030610,33859773,10915691,46164342,5038,1483016,32734391,16128152"
   },
-  {
-    "seed_title": 3,
-    "carousel": "Must Read Classics",
-    "recommendations": "157993,24213,5907,33,40961427,1934,2998,7126,8127,11127,3836,4671,1885,5107,18490"
-  },
-  {
-    "seed_title": 3,
-    "carousel": "Best Young Adult Books",
-    "recommendations": "28187,3636,113436,24178,119322,33574273,6310,78411,28194,2767052"
-  },
-  {
-    "seed_title": 3,
-    "carousel": "Other Books by J.K. Rowling",
-    "recommendations": "5,136251,15881,6,2,17314031,862041,47523,7,8933944,72191,16122245,41258707,34528123,54625379"
-  },
+
   {
     "seed_title": 41865,
     "carousel": "Other Books in The Twilight Saga Series",
@@ -43,16 +29,6 @@
     "seed_title": 41865,
     "carousel": "Best Paranormal Romance Series",
     "recommendations": "3975774,872333,256683,345627,1421990,8709527,12578077,3819326,6547187,38568,263179,30183,7039218,84132,27266"
-  },
-  {
-    "seed_title": 41865,
-    "carousel": "More Like This",
-    "recommendations": "22018453,43696200,52120667,32709656,40876298,939335,102328,40409247,34225275,105612,139656,16674566,22072958,17279853,17343"
-  },
-  {
-    "seed_title": 41865,
-    "carousel": "Best Paranormal & Fantasy Romances",
-    "recommendations": "35729,42900,304027,5098079,2168860,1162543,7046495"
   },
   {
     "seed_title": 41865,
@@ -78,15 +54,5 @@
     "seed_title": 2767052,
     "carousel": "More Like This",
     "recommendations": "22318512,334643,17312777,17164523,13330384,33891082,45480793,31185333,53464280,910725,42624377,244475,35133917,709526,55082971"
-  },
-  {
-    "seed_title": 2767052,
-    "carousel": "Other Books by Suzanne Collins",
-    "recommendations": "6148028,7260188,48752779,7938275,537052,16637529,17258973,875065,537068,18601167,262434"
-  },
-  {
-    "seed_title": 2767052,
-    "carousel": "Best Female Character",
-    "recommendations": "3236307,1162543,862041,1885,41865,345627,38447,1421990,49041,2168860,4902793"
   }
 ]
